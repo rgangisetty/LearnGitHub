@@ -1,2 +1,2 @@
 # LearnGitHub
-GitHub learning project
+GitHub learning project - First repository created to learn Git/GitHub.
